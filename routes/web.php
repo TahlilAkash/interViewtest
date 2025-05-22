@@ -3,9 +3,10 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\StudentController;
 
-// Route::get('/', function () {
-//     return view('welcome');
-// });
+Route::get('/', function () {
+    // return view('welcome');
+    return view('home');
+});
 Route::get('/student',[StudentController::class , 'student_list'])->name('student.list');
 Route::get('/student/create',[StudentController::class , 'createStudent'])->name('student.create');
 Route::post('/student/store',[StudentController::class , 'store'])->name('student.store');
