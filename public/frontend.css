@@ -99,6 +99,7 @@ div.container{
     padding:10px;
     min-width:200px;
     margin-bottom:50px;
+    transition: transform 0.5s;
 }
 .col-4 img{
     width: 100%;
@@ -108,7 +109,8 @@ div.container{
     margin: 0 auto 50px;
     position: relative;
 }
-/* .title::after{
+
+.title::after{
     content: '';
     background: #ff523b;
     width: 80px;
@@ -119,6 +121,19 @@ div.container{
     left: 50%;
     transform: translateX(-50%);
 
-} */
+}
+h4{
+    color: #555;
+    font-weight: normal;
+}
+.col-4 p{
+    font-size: 14px;
+}
+.rating .fa{
+    color: #ff523b;
+}
+.col-4:hover{
+    transform: translateY(-5px);
+}
 
 

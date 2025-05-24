@@ -50,10 +50,10 @@
     <div class="categories">
         <div class="small-container">
             <div class="row">
-            <div class="col-3"><img src="images/category-1.jpg" alt=""></div>
-            <div class="col-3"><img src="images/category-2.jpg" alt=""></div>
-            <div class="col-3"><img src="images/category-3.jpg" alt=""></div>
-        </div>
+                <div class="col-3"><img src="images/category-1.jpg" alt=""></div>
+                <div class="col-3"><img src="images/category-2.jpg" alt=""></div>
+                <div class="col-3"><img src="images/category-3.jpg" alt=""></div>
+            </div>
         </div>
     </div>
     <!------- Products ------>
@@ -63,42 +63,105 @@
             <div class="col-4">
                 <img src="images/product-1.jpg" alt="">
                 <h4>Red Printed T-Shirt</h4>
-                <i class="fa-solid fa-star"></i>
-                <i class="fa-solid fa-star"></i>
-                <i class="fa-solid fa-star"></i>
-                <i class="fa-solid fa-star"></i>
-                <i class="fa-regular fa-star"></i>
+                <div class="rating">
+                    <i class="fa fa-solid fa-star"></i>
+                    <i class="fa fa-solid fa-star"></i>
+                    <i class="fa fa-solid fa-star"></i>
+                    <i class="fa fa-solid fa-star"></i>
+                    <i class="fa fa-regular fa-star"></i>
+                </div>
                 <p>$50.00</p>
             </div>
             <div class="col-4">
                 <img src="images/product-2.jpg" alt="">
                 <h4>Red Printed T-Shirt</h4>
-                <i class="fa-solid fa-star"></i>
-                <i class="fa-solid fa-star"></i>
-                <i class="fa-solid fa-star"></i>
-                <i class="fa-solid fa-star"></i>
-                <i class="fa-regular fa-star"></i>
+                <div class="rating">
+                    <i class="fa fa-solid fa-star"></i>
+                    <i class="fa fa-solid fa-star"></i>
+                    <i class="fa fa-solid fa-star"></i>
+                    <i class="fa fa-solid fa-star"></i>
+                    <i class="fa fa-regular fa-star"></i>
+                </div>
                 <p>$50.00</p>
             </div>
             <div class="col-4">
                 <img src="images/product-3.jpg" alt="">
                 <h4>Red Printed T-Shirt</h4>
-                <i class="fa-solid fa-star"></i>
-                <i class="fa-solid fa-star"></i>
-                <i class="fa-solid fa-star"></i>
-                <i class="fa-solid fa-star"></i>
-                <i class="fa-regular fa-star-half-stroke"></i>
+                <div class="rating">
+                    <i class="fa fa-solid fa-star"></i>
+                    <i class="fa fa-solid fa-star"></i>
+                    <i class="fa fa-solid fa-star"></i>
+                    <i class="fa fa-solid fa-star"></i>
+                    <i class="fa fa-regular fa-star-half-stroke"></i>
+                </div>
                 <p>$50.00</p>
             </div>
             <div class="col-4">
                 <img src="images/product-4.jpg" alt="">
                 <h4>Red Printed T-Shirt</h4>
-                <i class="fa-solid fa-star"></i>
-                <i class="fa-solid fa-star"></i>
-                <i class="fa-solid fa-star"></i>
-                <i class="fa-solid fa-star"></i>
-                <i class="fa-regular fa-star"></i>
+                <div class="rating">
+                    <i class="fa fa-solid fa-star"></i>
+                    <i class="fa fa-solid fa-star"></i>
+                    <i class="fa fa-solid fa-star"></i>
+                    <i class="fa fa-solid fa-star"></i>
+                    <i class="fa fa-regular fa-star"></i>
+                    <div class="rating">
+                        <p>$50.00</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <h2 class="title">Latest Products</h2>
+        <div class="row">
+            <div class="col-4">
+                <img src="images/product-5.jpg" alt="">
+                <h4>Red Printed T-Shirt</h4>
+                <div class="rating">
+                    <i class="fa fa-solid fa-star"></i>
+                    <i class="fa fa-solid fa-star"></i>
+                    <i class="fa fa-solid fa-star"></i>
+                    <i class="fa fa-solid fa-star"></i>
+                    <i class="fa fa-regular fa-star"></i>
+                </div>
                 <p>$50.00</p>
+            </div>
+            <div class="col-4">
+                <img src="images/product-6.jpg" alt="">
+                <h4>Red Printed T-Shirt</h4>
+                <div class="rating">
+                    <i class="fa fa-solid fa-star"></i>
+                    <i class="fa fa-solid fa-star"></i>
+                    <i class="fa fa-solid fa-star"></i>
+                    <i class="fa fa-solid fa-star"></i>
+                    <i class="fa fa-regular fa-star"></i>
+                </div>
+                <p>$50.00</p>
+            </div>
+            <div class="col-4">
+                <img src="images/product-7.jpg" alt="">
+                <h4>Red Printed T-Shirt</h4>
+                <div class="rating">
+                    <i class="fa fa-solid fa-star"></i>
+                    <i class="fa fa-solid fa-star"></i>
+                    <i class="fa fa-solid fa-star"></i>
+                    <i class="fa fa-solid fa-star"></i>
+                    <i class="fa fa-regular fa-star-half-stroke"></i>
+                </div>
+                <p>$50.00</p>
+            </div>
+            <div class="col-4">
+                <img src="images/product-8.jpg" alt="">
+                <h4>Red Printed T-Shirt</h4>
+                <div class="rating">
+                    <i class="fa fa-solid fa-star"></i>
+                    <i class="fa fa-solid fa-star"></i>
+                    <i class="fa fa-solid fa-star"></i>
+                    <i class="fa fa-solid fa-star"></i>
+                    <i class="fa fa-regular fa-star"></i>
+                    <div class="rating">
+                        <p>$50.00</p>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
